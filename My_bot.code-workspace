@@ -1,0 +1,39 @@
+{
+	"folders": [
+		{
+			"name": "My_bot",
+			"path": "..\\..\\Desktop\\My_bot"
+		},
+		{
+			"name": "Portfolio",
+			"path": "..\\..\\Desktop\\Portfolio"
+		},
+		{
+			"name": "ЕГЭ",
+			"path": "..\\..\\Desktop\\ЕГЭ"
+		},
+		{
+			"name": "Git",
+			"path": "..\\..\\Desktop\\Git"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\Desktop\\веб"
+		},
+		{
+			"path": "..\\C++"
+		},
+		{
+			"path": "..\\..\\Desktop\\MIDI-to-Windsong-Lyre-Genshin-Impact-main"
+		},
+		{
+			"name": "Telegram-Message-Analyzer",
+			"path": "tg analuzer\\Telegram-Message-Analyzer"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Portfolio"
+	}
+}
